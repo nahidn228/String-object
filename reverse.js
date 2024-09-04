@@ -18,4 +18,4 @@ for (i = 0; i < sentence.length; i++) {
 //shortcut
 
 let reversed = sentence.split("").reverse().join("");
-console.log(reversed); //ved bew gninrael ma i
+//console.log(reversed); //ved bew gninrael ma i
